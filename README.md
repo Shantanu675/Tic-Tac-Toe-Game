@@ -20,7 +20,7 @@ This is a simple, interactive **Tic Tac Toe** game built using **HTML**, **CSS**
 
 ## 📸 Screenshot
 
-![img alt]("https://github.com/Shantanu675/Tic-Tac-Toe-Game/blob/9642308a1e3fef7f8b02d78860a3b6d5f0040e4d/Screenshot%20from%202024-12-29%2014-25-07.png")
+![img alt](https://github.com/Shantanu675/Tic-Tac-Toe-Game/blob/9642308a1e3fef7f8b02d78860a3b6d5f0040e4d/Screenshot%20from%202024-12-29%2014-25-07.png)
 
 ## 🚀 How to Play Online
 
